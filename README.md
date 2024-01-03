@@ -1,6 +1,8 @@
 # 💫 About Me:
-I'm a Computer Science student at 1337, passionate about coding and technology. Currently diving into the world of C language and exploring its endless possibilities.
+I'm a Computer Science student at 1337, passionate about coding and technology.
+Currently diving into the world of C language and exploring its endless possibilities.
 
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/tbesbess" alt="tbesbess's 42 stats" /></a>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/th_bs_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tahabesbess) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@TFlecca) 
