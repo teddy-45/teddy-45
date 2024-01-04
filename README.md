@@ -20,6 +20,4 @@ Currently diving into the world of C language and exploring its endless possibil
 ---
 [![](https://visitcount.itsvg.in/api?id=teddy-45&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)]([https://www.paypal.com/paypalme/teddy459?v=1&utm_source=unp&utm_medium=email&utm_campaign=RT000481&utm_unptid=01ff7968-aa41-11ee-bf2c-40a6b729070d&ppid=RT000481&cnac=MA&rsta=ar_EG%28ar-MA%29&cust=PRHFLCMFKLE8A&unptid=01ff7968-aa41-11ee-bf2c-40a6b729070d&calc=f455451651c24&unp_tpcid=ppme-social-business-profile-created&page=main%3Aemail%3ART000481&pgrp=main%3Aemail&e=cl&mchn=em&s=ci&mail=sys&appVersion=1.223.0&xt=104038%2C127632])
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
