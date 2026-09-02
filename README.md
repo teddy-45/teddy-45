@@ -103,9 +103,9 @@ Containerized infrastructure with WordPress, Nginx, MariaDB, networking, volumes
 
 ## 🧰 Tech Stack
 
-<table>
+<table width="100%">
 <tr>
-<td align="center" valign="top">
+<td width="25%" align="center" valign="top">
 
 **LANGUAGES**
 
@@ -114,7 +114,7 @@ Containerized infrastructure with WordPress, Nginx, MariaDB, networking, volumes
 <sub>C · C++ · JavaScript · TypeScript</sub>
 
 </td>
-<td align="center" valign="top">
+<td width="25%" align="center" valign="top">
 
 **FRONTEND**
 
@@ -123,9 +123,7 @@ Containerized infrastructure with WordPress, Nginx, MariaDB, networking, volumes
 <sub>React · Next.js · HTML · Tailwind</sub>
 
 </td>
-</tr>
-<tr>
-<td align="center" valign="top">
+<td width="25%" align="center" valign="top">
 
 **BACKEND**
 
@@ -134,7 +132,7 @@ Containerized infrastructure with WordPress, Nginx, MariaDB, networking, volumes
 <sub>Node · Express · Socket.IO · PostgreSQL</sub>
 
 </td>
-<td align="center" valign="top">
+<td width="25%" align="center" valign="top">
 
 **DEVOPS**
 
@@ -156,15 +154,5 @@ Containerized infrastructure with WordPress, Nginx, MariaDB, networking, volumes
 <img src="https://img.shields.io/badge/BACKEND-0D1117?style=for-the-badge&logo=node.js&logoColor=68A063" />
 <img src="https://img.shields.io/badge/NETWORKING-0D1117?style=for-the-badge&logo=cisco&logoColor=00BCEB" />
 <img src="https://img.shields.io/badge/DEVOPS-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
-
-<br><br>
-
-```text
-┌────────────────────────────────────────────────────────┐
-│                                                          │
-│   THINK  →  BUILD  →  TEST  →  BREAK  →  LEARN  →  🚀   │
-│                                                          │
-└────────────────────────────────────────────────────────┘
-```
 
 </div>
