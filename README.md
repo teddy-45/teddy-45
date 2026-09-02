@@ -34,44 +34,29 @@
 
 ---
 
-<table width="100%">
-<tr>
-
-<td width="32%" valign="top">
-
-## 🧑‍💻 ABOUT ME
+## 🧑‍💻 About Me
 
 I'm a **Junior Software Developer** and a Computer Science student at **1337 Coding School (42 Network)**.
 
 I'm passionate about building software from the **system level to the web**.
 
-### ⚡ I BUILD WITH
+**⚡ I build with:** `Systems` `Backend` `Networking` `Full-Stack` `Linux` `Docker`
 
-`Systems` · `Backend` · `Networking`
-
-`Full-Stack` · `Linux` · `Docker`
-
-### 🎯 CURRENTLY
-
+**🎯 Currently:**
 - Building real-world web platforms
 - Deepening C/C++ & systems knowledge
 - Exploring backend architecture
 - Learning through challenging projects
 
-</td>
+---
 
-<td width="68%" valign="top">
+## 🚀 Featured Projects
 
-## 🚀 FEATURED PROJECTS
-
-<table width="100%">
-
+<table>
 <tr>
-
 <td width="50%" valign="top">
 
 ### ♟️ Real-Time Chess
-
 **Next.js · React · Node.js**
 
 Real-time multiplayer chess platform with REST APIs, Socket.IO, authentication, PostgreSQL and Docker.
@@ -79,11 +64,9 @@ Real-time multiplayer chess platform with REST APIs, Socket.IO, authentication, 
 `REAL-TIME` `FULL-STACK`
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 🌐 IRC Server
-
 **C++ · TCP/IP · Sockets**
 
 IRC server compliant with RFC 1459, supporting concurrent clients, channels, command parsing and non-blocking I/O.
@@ -91,15 +74,11 @@ IRC server compliant with RFC 1459, supporting concurrent clients, channels, com
 `NETWORKING` `C++`
 
 </td>
-
 </tr>
-
 <tr>
-
 <td width="50%" valign="top">
 
 ### 🐚 MiniShell
-
 **C · Unix · Processes**
 
 Unix shell reproducing core Bash functionality with pipes, redirections, process management and signals.
@@ -107,11 +86,9 @@ Unix shell reproducing core Bash functionality with pipes, redirections, process
 `UNIX` `C` `PROCESSES`
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 🐳 Inception
-
 **Docker · Nginx · MariaDB**
 
 Containerized infrastructure with WordPress, Nginx, MariaDB, networking, volumes and automation.
@@ -119,83 +96,53 @@ Containerized infrastructure with WordPress, Nginx, MariaDB, networking, volumes
 `DOCKER` `DEVOPS`
 
 </td>
-
-</tr>
-
-</table>
-
-</td>
-
 </tr>
 </table>
 
 ---
 
-## 🧰 TECH STACK
+## 🧰 Tech Stack
 
-<table width="100%">
+<table>
 <tr>
+<td align="center" valign="top">
 
-<td width="25%" align="center" valign="top">
+**LANGUAGES**
 
-### `LANGUAGES`
-
-<img src="https://skillicons.dev/icons?i=c&theme=dark" width="45">
-<img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="45">
-<img src="https://skillicons.dev/icons?i=js&theme=dark" width="45">
-<img src="https://skillicons.dev/icons?i=ts&theme=dark" width="45">
-
-<br>
+<img src="https://skillicons.dev/icons?i=c&theme=dark" width="45"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="45"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="45"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="45">
 
 <sub>C · C++ · JavaScript · TypeScript</sub>
 
 </td>
+<td align="center" valign="top">
 
-<td width="25%" align="center" valign="top">
+**FRONTEND**
 
-### `FRONTEND`
-
-<img src="https://skillicons.dev/icons?i=react&theme=dark" width="45">
-<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="45">
-<img src="https://skillicons.dev/icons?i=html&theme=dark" width="45">
-<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="45">
-
-<br>
+<img src="https://skillicons.dev/icons?i=react&theme=dark" width="45"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="45"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="45"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="45">
 
 <sub>React · Next.js · HTML · Tailwind</sub>
 
 </td>
+</tr>
+<tr>
+<td align="center" valign="top">
 
-<td width="25%" align="center" valign="top">
+**BACKEND**
 
-### `BACKEND`
-
-<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="45">
-<img src="https://skillicons.dev/icons?i=express&theme=dark" width="45">
-<img src="https://skillicons.dev/icons?i=socketio&theme=dark" width="45">
-<img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="45">
-
-<br>
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="45"><img src="https://skillicons.dev/icons?i=express&theme=dark" width="45"><img src="https://skillicons.dev/icons?i=socketio&theme=dark" width="45"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="45">
 
 <sub>Node · Express · Socket.IO · PostgreSQL</sub>
 
 </td>
+<td align="center" valign="top">
 
-<td width="25%" align="center" valign="top">
+**DEVOPS**
 
-### `DEVOPS`
-
-<img src="https://skillicons.dev/icons?i=docker&theme=dark" width="45">
-<img src="https://skillicons.dev/icons?i=nginx&theme=dark" width="45">
-<img src="https://skillicons.dev/icons?i=linux&theme=dark" width="45">
-<img src="https://skillicons.dev/icons?i=git&theme=dark" width="45">
-
-<br>
+<img src="https://skillicons.dev/icons?i=docker&theme=dark" width="45"><img src="https://skillicons.dev/icons?i=nginx&theme=dark" width="45"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="45"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="45">
 
 <sub>Docker · Nginx · Linux · Git</sub>
 
 </td>
-
 </tr>
 </table>
 
@@ -203,7 +150,7 @@ Containerized infrastructure with WordPress, Nginx, MariaDB, networking, volumes
 
 <div align="center">
 
-## 🧠 ENGINEERING MINDSET
+## 🧠 Engineering Mindset
 
 <img src="https://img.shields.io/badge/SYSTEMS-0D1117?style=for-the-badge&logo=linux&logoColor=58A6FF" />
 <img src="https://img.shields.io/badge/BACKEND-0D1117?style=for-the-badge&logo=node.js&logoColor=68A063" />
