@@ -1,10 +1,10 @@
 <div align="center">
 
-👋 Hi, I'm Taha Besbess
+# 👋 Hi, I'm <span style="color:#58A6FF">Taha Besbess</span>
 
-💻 Junior Software Developer | 1337 Coding School (42 Network)
+### `Junior Software Developer` · `1337 Coding School / 42 Network`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+solutions.+Learning+every+day.;Systems+%26+Backend+Developer;C%2FC%2B%2B+%7C+JavaScript+%7C+TypeScript;Networking+%7C+Linux+%7C+Docker" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=700&color=58A6FF&center=true&vCenter=true&width=720&lines=%3E+Building+solutions.+Learning+every+day.;%3E+Systems+%26+Backend+Developer;%3E+C%2FC%2B%2B+%7C+JavaScript+%7C+TypeScript;%3E+Networking+%7C+Linux+%7C+Docker;%3E+Turning+ideas+into+code._" />
 
 <br>
 
@@ -12,278 +12,209 @@
 <img src="https://badge.mediaplus.ma/greenbinary/tbesbess" alt="tbesbess's 42 stats" />
 </a>
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <a href="https://instagram.com/th_bs_">
-<img src="https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/INSTAGRAM-111827?style=for-the-badge&logo=instagram&logoColor=E4405F" />
 </a>
 &nbsp;
 <a href="https://linkedin.com/in/tahabesbess">
-<img src="https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
 &nbsp;
 <a href="https://twitter.com/@TFlecca">
-<img src="https://img.shields.io/badge/TWITTER-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
+<img src="https://img.shields.io/badge/TWITTER-111827?style=for-the-badge&logo=x&logoColor=FFFFFF" />
 </a>
 &nbsp;
 <a href="mailto:bes.taha.1337@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" />
 </a>
 
 </div>
 
-<br>
+---
 
 <table width="100%">
 <tr>
+
 <td width="32%" valign="top">
 
-👨‍💻 ABOUT ME
+## 🧑‍💻 ABOUT ME
 
-I'm a Junior Software Developer and a Computer Science student at 1337 Coding School (42 Network).
+I'm a **Junior Software Developer** and a Computer Science student at **1337 Coding School (42 Network)**.
 
-<br>
+I'm passionate about building software from the **system level to the web**.
 
-<b>Passionate about:</b>
+### ⚡ I BUILD WITH
 
-<pre>
-Systems Programming
+`Systems` · `Backend` · `Networking`
 
-Backend Development
+`Full-Stack` · `Linux` · `Docker`
 
-Full-Stack Development
+### 🎯 CURRENTLY
 
-Networking
-
-Linux & Unix
-
-Docker & Infrastructure
-</pre>
-
-I enjoy understanding how things work under the hood and turning that knowledge into real projects.
-
-<br>
-
-💻 TECH STACK
-
-<b>Languages</b>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=c,cpp,js,ts&perline=4" width="190" />
-
-<br><br>
-
-<b>Frontend</b>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,tailwind&perline=4" width="190" />
-
-<br><br>
-
-<b>Backend</b>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,socketio,postgres&perline=4" width="190" />
-
-<br><br>
-
-<b>DevOps & Tools</b>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=docker,nginx,linux,git&perline=4" width="190" />
+- Building real-world web platforms
+- Deepening C/C++ & systems knowledge
+- Exploring backend architecture
+- Learning through challenging projects
 
 </td>
 
 <td width="68%" valign="top">
 
-🚀 FEATURED PROJECTS
+## 🚀 FEATURED PROJECTS
+
+<table width="100%">
+
+<tr>
+
+<td width="50%" valign="top">
+
+### ♟️ Real-Time Chess
+
+**Next.js · React · Node.js**
+
+Real-time multiplayer chess platform with REST APIs, Socket.IO, authentication, PostgreSQL and Docker.
+
+`REAL-TIME` `FULL-STACK`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌐 IRC Server
+
+**C++ · TCP/IP · Sockets**
+
+IRC server compliant with RFC 1459, supporting concurrent clients, channels, command parsing and non-blocking I/O.
+
+`NETWORKING` `C++`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🐚 MiniShell
+
+**C · Unix · Processes**
+
+Unix shell reproducing core Bash functionality with pipes, redirections, process management and signals.
+
+`UNIX` `C` `PROCESSES`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🐳 Inception
+
+**Docker · Nginx · MariaDB**
+
+Containerized infrastructure with WordPress, Nginx, MariaDB, networking, volumes and automation.
+
+`DOCKER` `DEVOPS`
+
+</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🧰 TECH STACK
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
 
-♟️ Real-Time Chess Platform
+<td width="25%" align="center" valign="top">
 
-<sub>Next.js · React · Node.js · Express.js · Socket.IO · PostgreSQL · Docker</sub>
+### `LANGUAGES`
 
-<br><br>
-
-Real-time multiplayer chess platform.
-
-<br><br>
-
-<pre>
-Real-time gameplay
-
-REST APIs
-
-Socket.IO communication
-
-Authentication & sessions
-
-PostgreSQL persistence
-
-Responsive Next.js frontend
-</pre>
-
-</td>
-
-<td width="50%" valign="top">
-
-🌐 IRC Server
-
-<sub>C++ · TCP/IP · Sockets · Non-blocking I/O</sub>
-
-<br><br>
-
-IRC server compliant with RFC 1459.
-
-<br><br>
-
-<pre>
-Multiple concurrent clients
-
-IRC command parsing
-
-User session management
-
-Multi-channel communication
-
-Non-blocking I/O
-
-Socket multiplexing
-</pre>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-🐚 MiniShell
-
-<sub>C · Unix · Processes · Pipes · Signals</sub>
-
-<br><br>
-
-Unix shell reproducing core Bash functionality.
-
-<br><br>
-
-<pre>
-Command parsing
-
-Pipes & redirections
-
-Process management
-
-fork() / execve()
-
-Signal handling
-</pre>
-
-</td>
-
-<td width="50%" valign="top">
-
-🐳 Inception
-
-<sub>Docker · Docker Compose · Nginx · MariaDB · WordPress · Bash</sub>
-
-<br><br>
-
-Containerized infrastructure project.
-
-<br><br>
-
-<pre>
-Nginx
-
-WordPress
-
-MariaDB
-
-FTP
-
-Container networking
-
-Volumes & environment
-</pre>
-
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=c&theme=dark" width="45">
+<img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="45">
+<img src="https://skillicons.dev/icons?i=js&theme=dark" width="45">
+<img src="https://skillicons.dev/icons?i=ts&theme=dark" width="45">
 
 <br>
 
-> Check out my repositories for more projects!
+<sub>C · C++ · JavaScript · TypeScript</sub>
 
 </td>
-</tr>
-</table>
 
-📊 GITHUB STATS
+<td width="25%" align="center" valign="top">
 
-<div align="center">
+### `FRONTEND`
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=teddy-45&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&show_icons=true" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teddy-45&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
-
-<br><br>
-
-<img height="160" src="https://streak-stats.demolab.com/?user=teddy-45&theme=tokyonight&hide_border=true" />
-
-</div>
-
-💼 EXPERIENCE
-
-🚀 Junior Software Developer Intern — SOURCELIYA EXPRESS SARL
-
-May 2026 – Present · Tanger, Morocco
-
-Working on a web platform for managing import/export operations.
-
-Product Management · Supplier Management · Orders · Shipments
-Frontend Development · Backend Development
-
-🎓 EDUCATION
-
-1337 Coding School — 42 Network | UM6P
-
-Software Engineering Program · 2023 – Present
-
-C/C++ · OOP · Data Structures · Algorithms · Networking
-System Programming · REST APIs · Web Development · Full-Stack
-
-Specialized Institute of Applied Technology
-
-Diploma in Computer Network Techniques (BAC+2) · 2018 – 2020
-
-<div align="center">
-
-🐍 CONTRIBUTION GRAPH
-
-<img src="https://raw.githubusercontent.com/teddy-45/teddy-45/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-
-<br><br>
-
-💻 Build. Learn. Break. Repeat.
+<img src="https://skillicons.dev/icons?i=react&theme=dark" width="45">
+<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="45">
+<img src="https://skillicons.dev/icons?i=html&theme=dark" width="45">
+<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="45">
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=teddy-45&style=for-the-badge" />
+<sub>React · Next.js · HTML · Tailwind</sub>
+
+</td>
+
+<td width="25%" align="center" valign="top">
+
+### `BACKEND`
+
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="45">
+<img src="https://skillicons.dev/icons?i=express&theme=dark" width="45">
+<img src="https://skillicons.dev/icons?i=socketio&theme=dark" width="45">
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="45">
+
+<br>
+
+<sub>Node · Express · Socket.IO · PostgreSQL</sub>
+
+</td>
+
+<td width="25%" align="center" valign="top">
+
+### `DEVOPS`
+
+<img src="https://skillicons.dev/icons?i=docker&theme=dark" width="45">
+<img src="https://skillicons.dev/icons?i=nginx&theme=dark" width="45">
+<img src="https://skillicons.dev/icons?i=linux&theme=dark" width="45">
+<img src="https://skillicons.dev/icons?i=git&theme=dark" width="45">
+
+<br>
+
+<sub>Docker · Nginx · Linux · Git</sub>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🧠 ENGINEERING MINDSET
+
+<img src="https://img.shields.io/badge/SYSTEMS-0D1117?style=for-the-badge&logo=linux&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/BACKEND-0D1117?style=for-the-badge&logo=node.js&logoColor=68A063" />
+<img src="https://img.shields.io/badge/NETWORKING-0D1117?style=for-the-badge&logo=cisco&logoColor=00BCEB" />
+<img src="https://img.shields.io/badge/DEVOPS-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
 
 <br><br>
 
-♡ Thanks for visiting my profile!
-
-</div>
+```text
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│   THINK  →  BUILD  →  TEST  →  BREAK  →  LEARN  →  🚀  │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
